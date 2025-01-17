@@ -1,0 +1,1 @@
+This is my attempt to use OpenCV to create an ASCII render of any image, or a video by converting the grayscale of each image/frame, and encoding every range of brightness to a symbol and recreate it by using the characters in a different platform, recreating the image using ASCII symbols. I have also added color to it.
